@@ -26,7 +26,5 @@
     "irc": "irc://irc.freenode.org/drupal-contribute",
     "source": "http://git.drupal.org/project/ds.git"
   },
-  "require": {
-    "drupal/layout_plugin": "8.*"
-  }
+  "require": { }
 }
